@@ -1,0 +1,123 @@
+{
+    "topbar": [
+        {
+            "name": "home",
+            "path": "/me",
+            "tooltip": "Back to home"
+        },
+        {
+            "name": "about",
+            "path": "/about",
+            "tooltip": "Learn more about me"
+        },
+        {
+            "name": "resume",
+            "path": "/resume",
+            "tooltip": "Check out my resume"
+        }
+    ],
+    "hero": {
+        "name": "Uzumaki Naruto",
+        "title": "Backend Engineer & DevOps Ninja",
+        "location": "Konohagakure, Land of Fire",
+        "phone": "+81 00 0000 0000",
+        "email": "naruto@hokage.dev",
+        "linkedin": "https://linkedin.com/in/uzumaki-naruto",
+        "image": {
+            "profile": "profile.jpeg"
+        },
+        "short": "I never give up on a deployment. Built the Hidden Leaf's entire infrastructure from scratch using Go, Docker, and sheer willpower.",
+        "long": "about.txt",
+        "profile": "Backend engineer and DevOps practitioner from Konohagakure. Specializing in distributed systems, container orchestration, and making sure the Hokage's APIs never go down. Shadow Clone Jutsu lets me run parallel workloads efficiently.",
+        "skills": [
+            {
+                "category": "Languages",
+                "brief": "Languages I use to summon production-grade backend services.",
+                "items": [
+                    "Golang",
+                    "Rust",
+                    "Bash"
+                ]
+            },
+            {
+                "category": "Databases & Libraries",
+                "brief": "Data stores and frameworks powering the Hidden Leaf's core systems.",
+                "items": [
+                    "PostgreSQL",
+                    "Redis",
+                    "Elasticsearch",
+                    "Echo"
+                ]
+            },
+            {
+                "category": "DevOps & Infrastructure",
+                "brief": "Tools I use to deploy, scale and keep the village running 24/7.",
+                "items": [
+                    "Docker",
+                    "Kubernetes",
+                    "Nginx",
+                    "GitHub Actions",
+                    "Terraform"
+                ]
+            },
+            {
+                "category": "Observability",
+                "brief": "Because even a Hokage needs to know when things are on fire.",
+                "items": [
+                    "OpenTelemetry",
+                    "Prometheus",
+                    "Grafana",
+                    "Loki"
+                ]
+            }
+        ],
+        "resume" : {
+            "file" : "resume.pdf",
+            "name" : "Resume - Uzumaki Naruto"
+        }
+    },
+    "marquee": {
+        "golang": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
+        "postgres": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
+        "kubernetes": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg",
+        "redis": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg",
+        "nginx": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg",
+        "docker": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    },
+    "social": {
+        "https://github.com/uzumaki-naruto": "https://skillicons.dev/icons?i=github",
+        "https://www.linkedin.com/in/uzumaki-naruto": "https://skillicons.dev/icons?i=linkedin",
+        "mailto:naruto@hokage.dev": "https://skillicons.dev/icons?i=gmail"
+    },
+    "education": [
+        {
+            "institution": "Ninja Academy of Konohagakure",
+            "degree": "Diploma in Ninjutsu & Cloud Engineering",
+            "location": "Konohagakure, Land of Fire",
+            "passing-year": "2007",
+            "website": "https://konoha-academy.dev",
+            "verify": {
+                "roll": "KONOHA-2003-0009",
+                "registration": "REG-SHADOW-CLONE",
+                "certificate": "cert/diploma.png"
+            }
+        },
+        {
+            "institution": "Mount Myoboku Advanced Training",
+            "degree": "Sage Mode & Distributed Systems",
+            "location": "Mount Myoboku",
+            "passing-year": "2009",
+            "website": "https://myoboku.sage.dev",
+            "verify": {
+                "roll": "SAGE-2009-0001",
+                "registration": "REG-NATURAL-ENERGY",
+                "certificate": "cert/sgmode.png"
+            }
+        }
+    ],
+    "footer": {
+        "version": "v1.0.0",
+        "last-updated": "2025-02-26",
+        "copyright": "Uzumaki Naruto — Believe it!"
+    }
+}
