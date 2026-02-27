@@ -2,7 +2,7 @@
     "topbar": [
         {
             "name": "home",
-            "path": "/me",
+            "path": "/home",
             "tooltip": "Back to home"
         },
         {
