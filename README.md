@@ -11,7 +11,7 @@ A minimal, themeable personal portfolio built with **React + Chakra UI**. All co
 
 ```bash
 # Prewritten docker instruction
-# Default bind port 3000:80
+# Default bind port 8080:80
 bash script.sh
 ```
 
